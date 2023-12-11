@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **being a full-stack Engineer**
 
-- 💬 Ask me about **Full Stack**
+- 💬 Ask me about **React Js, Python(Flask)**
 
 - 📫 How to reach me **anzalabdinoor5@gmail.com**
 

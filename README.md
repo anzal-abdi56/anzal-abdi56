@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **being a full-stack Engineer**
 
-- 🌱 I’m currently learning **Typescript**
-
 - 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **anzalabdinoor5@gmail.com**

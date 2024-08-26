@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **anzalabdinoor5@gmail.com**
 
-- ⚡ Fun fact **I am funny**
-
-- [![wakatime](https://wakatime.com/badge/user/48a84206-944a-4f37-8f0c-3b68cff8ca89.svg)](https://wakatime.com/@48a84206-944a-4f37-8f0c-3b68cff8ca89)
+- ⚡ Fun fact **I am always curious**
 
 ## My current tech stack
 ![HTML5](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
